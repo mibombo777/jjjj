@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+img{
+float: right;
+
+}
+
+.social{
+float: left;
+
+
+
+
+}
+
+.pp{
+float: right;
+}
+main{
+background-image: linear-gradient(purple, yellow, pink);
+}
+
+p{
+font-family: 'Courier New', Courier, monospace;
+
+
+
+
+}
